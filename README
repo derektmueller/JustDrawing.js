@@ -1,7 +1,7 @@
 
 JustDrawing.js
 
-A crude drawing widget based on Prototypes.js
+A less crude drawing widget based on Prototypes.js
 
 Dependencies: 
     - jQuery
